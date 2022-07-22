@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    android:gravity="center"
+    tools:context=".Activity.ConnectActivity">
+
+    <EditText
+        android:id="@+id/txtip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:gravity="center"
+        android:hint="  ip address 192.168.11.1  "
+        android:textColor="@color/colorAccent"
+        android:textColorHint="@color/txtColor"
+        android:textSize="22dp" />
+
+    <Button
+        android:id="@+id/btnconnect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="      Connect      "
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:background="@drawable/mybutton"/>
+
+</LinearLayout>

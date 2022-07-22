@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="darkgray">#808080</color>
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#E4F8FF</color>
+    <color name="backgroundlogo">#0079c1</color>
+    <color name="txtColor">#0079c1</color>
+
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="lightred">#90FF0000</drawable>
+    <drawable name="lightgray">#90505050</drawable>
+</resources>
